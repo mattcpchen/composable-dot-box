@@ -1,6 +1,6 @@
 {
   "name": "composable-dot-box",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "./dist/composable-dot-box.js",
   "scripts": {

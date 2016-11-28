@@ -21,15 +21,15 @@ copies of your source data without changing them.</p>
 
 
 <h3 style="margin:0; padding:0">Examples:</h3>
-Example 1: dealing with streing
+Example 1: dealing with string
 ```
-    const currentCharacter = '64_32_41'
+    const currentCharacterData = '64_32_41'
     const nextCharacter = DotBox
-      .of(currentCharacter)
-      .map(str => new Number(str.split('_')[0])
-        .map(number => number +1)
-        .map(nextNum => String.fromCharCode(nextNum))
-        .print();
+      .of(currentCharacterData)
+      .map(str => new Number(str.split('_')[0]))
+      .map(number => number +1)
+      .map(nextNum => String.fromCharCode(nextNum))
+      .print();
 ```
 
 example 2: dealing with object
