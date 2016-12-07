@@ -1,4 +1,4 @@
-<h3 style="margin:0; padding:0">Object:</h3>
+<h3 style="margin:0; padding:0">Objective:</h3>
 The "composable-dot-box" object allows you to wrap your data in composable and immutable 
 getters and setters. 
 <p>Composability is a system design principle that deals with the 
