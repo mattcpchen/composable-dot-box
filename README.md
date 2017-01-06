@@ -6,8 +6,8 @@ inter-relationships of components. It allows the users to select and assemble
 data in nested structures. Immutability will make sure the setter will only return
 copies of your source data without changing them.</p>
 
-node module: https://www.npmjs.com/package/composable-dot-box (npm install composable-dot-box)
-document url: https://composable-dot-box-doc.herokuapp.com/
+node module: https://www.npmjs.com/package/composable-dot-box (npm install composable-dot-box)<br/>
+document url: https://composable-dot-box-doc.herokuapp.com/</p>
 
 
 <h3 style="margin:0; padding:0">Methods:</h3>
